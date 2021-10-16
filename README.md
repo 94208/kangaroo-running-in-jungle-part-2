@@ -1,1 +1,1 @@
-# kangaroo-running-in-jungle-part-2
+# project-template-kangaroo-2
